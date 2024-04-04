@@ -11,7 +11,7 @@ Then from the terminal...
 >> % pip install netpyne
 
 3. Compile the mod files:
->> % nrnivmodl ./mods
+>> % nrnivmodl
 
 4. Running the model in Python:
 >> % ipython run init.py
